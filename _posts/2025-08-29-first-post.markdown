@@ -4,7 +4,6 @@ title: "Welcome to my blog"
 date: 2025-12-28
 author: Diego Barros
 ---
-# Welcome to my blog!!
 
 I am Diego Barros, [mate](https://en.wikipedia.org/wiki/Yerba_mate) lover and [watch](https://en.wikipedia.org/wiki/Watch) enthusiast. I love anime and all things Japanese, which is pretty basic for a Gen Z like me, but that's just me.
 
